@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Small-inventory-Sells-receive-and-stock-product-with-Report-
+# Small-inventory-Sells-receive-and-stock-product-with-Report- (Laravel)
 Small inventory (Sells ,receive and stock  product  with Report)
 =======
 1.create database name inventory 
